@@ -10,4 +10,6 @@ enter options 1-4 for historical measurements
 it will then output a conversion
 
 2. https://github.com/Gordon519-eng/Assignment-4
+
 3. https://hub.docker.com/repository/docker/vand0708/converter/image-management
+4. docker pull vand0708/converter:assignment_4
